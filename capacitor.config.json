@@ -1,0 +1,6 @@
+{
+  "appId": "com.codeman.app",
+  "appName": "Todo List",
+  "webDir": "https://www.codeman.me",
+  "bundledWebRuntime": false
+}
